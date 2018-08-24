@@ -3,7 +3,7 @@ package com.njeffery;
 public class Main {
     //define vars and constants
     static String randomString = "String to print";
-    static final double PINUM = 3.14;
+    static final double PINUM = 3.145;
 //main method, where the program starts
     public static void main(String[] args) {
         System.out.println(randomString);
