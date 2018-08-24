@@ -82,8 +82,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="612" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="448" />
     <option name="y" value="23" />
     <option name="width" value="744" />
     <option name="height" value="725" />
@@ -124,7 +124,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535144022717" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535144204085" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
