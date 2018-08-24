@@ -21,7 +21,7 @@ public class part2 {
             //.nextFloat() .nextDouble() etc.
             int numberEntered = userInput.nextInt();
             System.out.println("you entered: " + numberEntered);
-            System.out.print("enter a second nnumber: ");
+            System.out.print("enter a second number: ");
             int numberEntered2 = userInput.nextInt();
             int result = numberEntered2 + numberEntered;
             System.out.println(result);
